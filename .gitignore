@@ -1,6 +1,6 @@
-*-mp4
-*-jpg
-*-jpeg
-*-class
-*-exe
-*-com
+*.mp4
+*.jpg
+*.jpeg
+*.class
+*.exe
+*.com
