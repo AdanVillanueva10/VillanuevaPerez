@@ -17,5 +17,6 @@ public class App {
         N2 = suma;
         i++;
         }
+        numero.close();
     }
 }
