@@ -10,8 +10,8 @@
 ### *Se produce al hacer click en un componente, también si se pulsa Enter teniendo el foco en el componente.*
 > ## Método 
 > ## public void actionPerformed(ActionEvent e) 
-- ## JButton: click o pulsar Enter con el foco activado en él.
 ## Eventos:  
+- ## JButton: click o pulsar Enter con el foco activado en él.
 - ## **JList**: doble click en un elemento de la lista.
 - ## **JMenuItem**: Selecciona una opción del menú.
 - ## **JTextField**: al pulsar Enter con el foco activado
