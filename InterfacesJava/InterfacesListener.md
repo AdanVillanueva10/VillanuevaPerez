@@ -11,7 +11,7 @@
 > ## Método 
 > ## public void actionPerformed(ActionEvent e) 
 ## Eventos:  
-- ## JButton: click o pulsar Enter con el foco activado en él.
+- ## **JButton**: click o pulsar Enter con el foco activado en él.
 - ## **JList**: doble click en un elemento de la lista.
 - ## **JMenuItem**: Selecciona una opción del menú.
 - ## **JTextField**: al pulsar Enter con el foco activado
